@@ -42,6 +42,6 @@ this is pseudo-code. it doesnt work.
 ---
 ## Flowchart
 
-![Wordle flow chart](wordle\flowchart.PNG)
+![Wordle flow chart](flowchart.PNG)
 
 ---
