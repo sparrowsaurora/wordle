@@ -1,3 +1,7 @@
+## Requirement
+
+    pip install termcolor
+
 ## pseudo-code
 
 this is pseudo-code. it doesnt work.
